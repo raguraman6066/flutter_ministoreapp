@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+1.rest api integration
+2.pagination
+3.lock device orientation
+4.theme - check youtube
+5.shimmerimage
+6.page transition
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/33dfcaba-ece3-4fa6-bb4a-4dc1bf7778f4" />
